@@ -1,16 +1,20 @@
-# flutter_application_1
+## Halaman Splash Screen
+<img src="https://github.com/Adityabagasngr/project_flutter/blob/main/splash.jpg?raw=true" alt="Splash Screen" width="250"/>
 
-A new Flutter project.
+## Halaman Login
+<img src="https://github.com/Adityabagasngr/project_flutter/blob/main/masuk.jpg?raw=true" alt="Halaman Login" width="250"/>
 
-## Getting Started
+## Halaman Daftar
+<img src="https://github.com/Adityabagasngr/project_flutter/blob/main/daftar.jpg?raw=true" alt="Halaman Daftar" width="250"/>
 
-This project is a starting point for a Flutter application.
+## Halaman Lupa Password
+<img src="https://github.com/Adityabagasngr/project_flutter/blob/main/lupa_password.jpg?raw=true" alt="Halaman Lupa Password" width="250"/>
 
-A few resources to get you started if this is your first Flutter project:
+## Halaman Home
+<img src="https://github.com/Adityabagasngr/project_flutter/blob/main/home.jpg?raw=true" alt="Halaman Home" width="250"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Halaman Akun
+<img src="https://github.com/Adityabagasngr/project_flutter/blob/main/akun.jpg?raw=true" alt="Halaman Akun" width="250"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Halaman Kelola Akun
+<img src="https://github.com/Adityabagasngr/project_flutter/blob/main/klola_akun.jpg?raw=true" alt="Halaman Logout" width="250"/>
