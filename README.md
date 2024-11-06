@@ -17,4 +17,4 @@
 <img src="https://github.com/Adityabagasngr/project_flutter/blob/main/akun.jpg?raw=true" alt="Halaman Akun" width="250"/>
 
 ## Halaman Kelola Akun
-<img src="https://github.com/Adityabagasngr/project_flutter/blob/main/klola_akun.jpg?raw=true" alt="Halaman Logout" width="250"/>
+<img src="https://github.com/Adityabagasngr/project_flutter/blob/main/klola_akun.jpg?raw=true" alt="Halaman Kelola Akun" width="250"/>
